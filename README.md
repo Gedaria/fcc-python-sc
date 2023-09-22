@@ -1,1 +1,1 @@
-# fcc-python-sc
+# A repository containing my solutions to the freeCodeCamp projects.
